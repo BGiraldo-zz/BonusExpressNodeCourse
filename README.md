@@ -6,9 +6,11 @@
 	Esta función devolvera la lista de cursos de acuerdo a como se menciona en la actividad **por consola**.
 4. Para inscribirse a un curso ejecute el comando: **_node plataforma inscribir_**
 	De esta manera vera los parametros que recibe los cuales son: **-n -c -i**
+	
 	**-n**: Nombre del estudiante
 	**-c**: Cedula del estudiante
 	**-i**: Id del curso
+	
     Este mensaje **se mostrara en el navegador** por el puerto 3000, dirijase a http://localhost:3000/
     para ver el resultado.
 

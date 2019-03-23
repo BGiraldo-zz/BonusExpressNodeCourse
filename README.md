@@ -1,4 +1,4 @@
-** Instrucciones de uso**
+**Instrucciones de uso**
 
 1. descomprima los archivos fuentes
 2. Ingrese desde su terminal hasta la carpeta con los fuentes y ejecute el comando **_npm install_**
